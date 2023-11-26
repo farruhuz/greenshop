@@ -1,0 +1,11 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  outline: 0 !important;
+}
+
+/* html {
+  font-size: 62.5%;
+} */
