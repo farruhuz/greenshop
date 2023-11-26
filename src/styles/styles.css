@@ -2,8 +2,8 @@
 *::after,
 *::before {
   box-sizing: border-box;
-  scroll-behavior: smooth;
   outline: 0 !important;
+  scroll-behavior: smooth;
 }
 
 /* html {
